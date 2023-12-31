@@ -31,4 +31,4 @@ Learning how to create a serverless web application, using services like google 
 ## What's next for Clarify
 
 One of the main reasons I wanted to use Google Cloud Vision is due to the wide variety of languages beyond just English including Tibetan which is the same script as for Dzongkha. Currently it does a decent job of extracting Tibetan text for some fonts better than others. However a large language model for languages beyond just English are still in development, so I would love to integrate such that it can support other languages. Also it would be great if students and parents could also have access to the transcribed documents and feedback to make it a more cohesive grading process.
-# Clarify
+
